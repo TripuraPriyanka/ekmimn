@@ -87,7 +87,7 @@ The pretrained model achieves the following performance on the SNLI dataset:
 
 | Split | Accuracy (%) |
 |-------|--------------|
-| Train |     93.2     |
+| Train |     94.0     |
 | Dev   |     88.4     |
 | Test  |     88.0     |
 
