@@ -1,0 +1,7 @@
+{
+    "test_data": "../../data/preprocessed/SNLI/test_data.pkl",
+    "embeddings": "../../data/preprocessed/SNLI/embeddings.pkl",
+    "pair_file": "../../data/preprocessed/SNLI/pair_features.pkl",
+    "check_point": "../../data/checkpoints/SNLI/best.pth.tar",
+    "batch_size": 32
+}
