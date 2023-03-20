@@ -1,8 +1,7 @@
 # ESIM - Enhanced Sequential Inference Model
 Implementation of the ESIM model for natural language inference with PyTorch
 
-This repository contains an implementation with PyTorch of the sequential model presented in the paper 
-["Enhanced LSTM for Natural Language Inference"](https://arxiv.org/pdf/1609.06038.pdf) by Chen et al. in 2016.
+
 
 ## How to
 ### Install the package
@@ -91,9 +90,7 @@ The pretrained model achieves the following performance on the SNLI dataset:
 | Dev   |     88.4     |
 | Test  |     88.0     |
 
-The results are in line with those presented in the paper by Chen et al.
 
-On the [Breaking NLI](https://github.com/BIU-NLP/Breaking_NLI) dataset, published by [Glockner et al. in 2018](https://arxiv.org/pdf/1805.02266.pdf), the model reaches **65.5%** accuracy, as reported in the paper.
 
 On MultiNLI, the model reaches the following accuracy:
 
@@ -102,4 +99,3 @@ On MultiNLI, the model reaches the following accuracy:
 | Dev   |  77.0 % |   76.8 %   |
 | Test  |  76.6 % |   75.8 %   |
 
-These results are above what was reported by Williams et al. in their MultiNLI paper.
